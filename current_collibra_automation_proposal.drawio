@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Página-1" id="u04i3cQdtpB7zdGnlN5U">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-1" target="3qG0o3F8UkpTVEEooYiG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-1" value="DEV collibra client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-2" target="3qG0o3F8UkpTVEEooYiG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-2" value="QA collibra client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-3" target="3qG0o3F8UkpTVEEooYiG-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-3" value="PROD collibra client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-4" target="3qG0o3F8UkpTVEEooYiG-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="540" />
+              <mxPoint x="880" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-4" target="3qG0o3F8UkpTVEEooYiG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-4" target="3qG0o3F8UkpTVEEooYiG-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="540" />
+              <mxPoint x="880" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-4" value="GIT repository with resource files" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-5" value="Metadata AD team member" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-6" value="Collibra Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-5" target="3qG0o3F8UkpTVEEooYiG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-6" target="3qG0o3F8UkpTVEEooYiG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-16" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 16.08px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Create a request to modify Collibra operating model structure&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-17" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 16.08px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Create required JSON files to modify Collibra operating model using Collibra REST API&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-21" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 16.08px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Collibra admin&lt;span style=&quot;font-weight: normal;&quot;&gt; runs install_operating_model.py&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="300" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-25" target="3qG0o3F8UkpTVEEooYiG-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="415" />
+              <mxPoint x="1840" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-25" value="Collibra DEV Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-26" value="Collibra PROD Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="645" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qG0o3F8UkpTVEEooYiG-27" target="3qG0o3F8UkpTVEEooYiG-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="553" />
+              <mxPoint x="1840" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-27" value="Collibra QA Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="515" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Current Collibra Automation Proposal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="850" y="190" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-33" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 16.08px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;install_operating_model&lt;span style=&quot;font-weight: normal;&quot;&gt; downloads resources ffrom Git repository and runs Colibra REST API to apply changes&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1334" y="300" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-35" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 16.08px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Once&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt; metadata team member &lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;test new changes in Collibra DEV server, then&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Collibra admin&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;will&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;deploy (runs install_operating_model.py) to put changes in Collibra QA server&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="430" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3qG0o3F8UkpTVEEooYiG-38" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 16.08px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Once&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt; metadata team member &lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;test new changes in Collibra QA server, then&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Collibra admin&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;will&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;deploy Collibra operating model changes in PROD server&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="570" width="320" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
