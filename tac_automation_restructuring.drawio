@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Página-1" id="Clr96b2i1ykj50pXAeil">
+    <mxGraphModel dx="2700" dy="1411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vj3winKWawDIrLdGmjLD-1" value="tac automation&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;source code&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579.5" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-2" value=".env and key files" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-3" value="datasource and runtime keys" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060.5" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Folder structure&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;./dev (keys)&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./qa&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./pse&lt;/span&gt;&lt;/p&gt;&lt;p&gt;./prod&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="830" y="550" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Folder structure&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;./dev (keys)&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./qa&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./pse&lt;/span&gt;&lt;/p&gt;&lt;p&gt;./prod&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="550" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Branches structure&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;feature/*&lt;/p&gt;&lt;p&gt;release/*&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./dev&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./qa&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;./pse&lt;/span&gt;&lt;/p&gt;&lt;p&gt;./prod&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="579.5" y="550" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vj3winKWawDIrLdGmjLD-10" target="Vj3winKWawDIrLdGmjLD-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-10" value="Download source code from repo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huiFqPrhXxZZZ0Eui70o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vj3winKWawDIrLdGmjLD-11" target="huiFqPrhXxZZZ0Eui70o-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-11" value="Run setup" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vj3winKWawDIrLdGmjLD-13" target="Vj3winKWawDIrLdGmjLD-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-13" value="Download and build .env file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vj3winKWawDIrLdGmjLD-15" target="Vj3winKWawDIrLdGmjLD-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-15" value="Load .env file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vj3winKWawDIrLdGmjLD-17" target="Vj3winKWawDIrLdGmjLD-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-17" value="Decrypt encrypted values" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1691" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vj3winKWawDIrLdGmjLD-20" target="Vj3winKWawDIrLdGmjLD-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-20" value="Download data source file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-22" value="Run required command" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2190" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="1487.5" as="sourcePoint" />
+            <mxPoint x="1030" y="1142.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-25" value="&lt;h1 style=&quot;text-align: left; text-wrap-mode: wrap; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Deployment phase&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1155" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-26" value="&lt;h1 style=&quot;text-align: left; text-wrap-mode: wrap; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Execution phase&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1155" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Branches structure&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;If current value is hashed it means current value is encrypted and need to be decrypted using the right key, its value points to key name in keys folder&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1691" y="1365" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-29" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;TAC automation restructuring&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="730" y="120" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-30" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Repositories&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="699.5" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-31" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Workflow&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="390" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj3winKWawDIrLdGmjLD-33" value="tac automation managment" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="huiFqPrhXxZZZ0Eui70o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="huiFqPrhXxZZZ0Eui70o-1" target="Vj3winKWawDIrLdGmjLD-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huiFqPrhXxZZZ0Eui70o-1" value="Set default env values" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huiFqPrhXxZZZ0Eui70o-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Settings&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Bitbucket .env repo (url, token, decryption key)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1360" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="huiFqPrhXxZZZ0Eui70o-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;- Create repository structure.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;- Put .env files, keys and txt for demo servers.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;- Do script to do deployment, setup of tac automation and set location of decryption jar and keys.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;- Modify project repository to keep just source code.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;- Add new function to download, read and build .env file.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;- Test new workflow.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="360" width="470" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="huiFqPrhXxZZZ0Eui70o-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;TO DO&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1654" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47-EFha4kA_G3Zy3oKA--2" target="47-EFha4kA_G3Zy3oKA--4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--2" value="&lt;div&gt;&lt;b&gt;Create Files Manually&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;set_up.sh&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;.env_source_code&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;.env_keys&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;dtcc_bbk.key&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;dtcc.jar&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="468" y="1840.5" width="140" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--3" value="&lt;div&gt;&lt;b&gt;.env_source_code&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket token encrypt&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket domain&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket user&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket repositoy&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket branch (It sent by parameter)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;.env_keys&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket token encrypt&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket url&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; - Bitbucket branch (master)&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=2;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="438" y="2031.5" width="230" height="148.5" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47-EFha4kA_G3Zy3oKA--4" target="47-EFha4kA_G3Zy3oKA--7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--4" value="&lt;div&gt;&lt;b&gt;Execute command&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;$&amp;nbsp;bash ./set_up.sh $branch_name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Download the project.tar.gz&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Unzip the project&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Create directories .cache and logs&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Create virtual environment and install requirements.txt&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Set the .env_key as initial environment file&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="758" y="1840.5" width="305" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1148" y="2270" as="sourcePoint" />
+            <mxPoint x="1148" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47-EFha4kA_G3Zy3oKA--7" target="47-EFha4kA_G3Zy3oKA--10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--7" value="&lt;div&gt;&lt;b&gt;Run Command&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;$ ./run-tac-command.sh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1208" y="1886" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--9" value="&lt;div&gt;&lt;b&gt;Execute the Command&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;$ ./run-tac-command.sh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1878" y="1884" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47-EFha4kA_G3Zy3oKA--10" target="47-EFha4kA_G3Zy3oKA--12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="47-EFha4kA_G3Zy3oKA--13" vertex="1" connectable="0">
+          <mxGeometry x="0.2449" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47-EFha4kA_G3Zy3oKA--10" target="47-EFha4kA_G3Zy3oKA--11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="47-EFha4kA_G3Zy3oKA--14" vertex="1" connectable="0">
+          <mxGeometry x="-0.0258" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--10" value="Download and build .env file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1448" y="1906" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="47-EFha4kA_G3Zy3oKA--11" target="47-EFha4kA_G3Zy3oKA--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--11" value="Load .env file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1668" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47-EFha4kA_G3Zy3oKA--12" target="47-EFha4kA_G3Zy3oKA--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--12" value="Load from .cache/.env" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1668" y="1866" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--20" value="&lt;div&gt;&lt;b&gt;files contained in the .cache directory:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; - .env&lt;/div&gt;&lt;div&gt;&amp;nbsp; - *.key&lt;/div&gt;&lt;div&gt;&amp;nbsp; - *.txt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=2;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="808" y="2030" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi5UdaG7bFfM6JSRCXZ7-4" value="&lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-style: normal; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;- files_required_from_scratch.&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-style: normal; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;- seed_files&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-style: normal; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;- This files are static files and they&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-style: normal; text-align: center; text-wrap-mode: nowrap;&quot;&gt;don&#39;t require write them each time.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-style: normal; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=2;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2050" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi5UdaG7bFfM6JSRCXZ7-5" value="&lt;div&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;- Run logs backup.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;- Deployment logger (keep a log of current project version deployed [commit deployed]).&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;-&amp;nbsp; Problems to manage environment variable names changes and fixes.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=2;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="793" y="2160" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YNWwarpMHicnL_pItv3S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YNWwarpMHicnL_pItv3S-1" target="47-EFha4kA_G3Zy3oKA--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YNWwarpMHicnL_pItv3S-1" value="&lt;div&gt;&lt;b&gt;Download deployment dependecies&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;set_up.sh&lt;/div&gt;&lt;div&gt;.env_source_code_repository&lt;/div&gt;&lt;div&gt;.env_keys (token, url, branch)&lt;/div&gt;&lt;div&gt;dtcc_bbk.key&lt;/div&gt;&lt;div&gt;dtcc.jar&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="138" y="1840.5" width="170" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="47-EFha4kA_G3Zy3oKA--21" value="&lt;div&gt;No changes&lt;/div&gt;&lt;div&gt;- download tar.gz - save files inside /apps/TAL/Scripts/tac-automation-deployment&lt;/div&gt;&lt;div&gt;- Unzip the files&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="103" y="2040" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

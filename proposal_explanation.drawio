@@ -1,0 +1,602 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Página-1" id="WCKOo0XpSk_w6MMcMDDV">
+    <mxGraphModel dx="2852" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-3" value="&lt;h1 style=&quot;text-align: left; text-wrap-mode: wrap; margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="145" y="230" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Current way of work&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="200" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-7" target="cssoFD6FsH1ywPE_WyX0-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-7" value="Open a feature branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-9" target="cssoFD6FsH1ywPE_WyX0-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-9" value="Code writing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-10" target="cssoFD6FsH1ywPE_WyX0-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-10" value="Deploy code in DEV&amp;nbsp; servers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-29" target="cssoFD6FsH1ywPE_WyX0-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="905" y="650" />
+              <mxPoint x="20" y="650" />
+              <mxPoint x="20" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-11" value="Test and debug changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="40" y="720" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-17" value="demo-tac-automation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="810" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="240" y="720" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-19" value="demo-tac-automation-deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="810" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="40" y="870" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-21" value="demo-tac-automation-datadource" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="960" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="240" y="870" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-23" value="demo-tac-automation-env" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="960" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cssoFD6FsH1ywPE_WyX0-26" target="cssoFD6FsH1ywPE_WyX0-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-26" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-29" target="cssoFD6FsH1ywPE_WyX0-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-29" value="Do we need a new feature?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="520" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-11" target="cssoFD6FsH1ywPE_WyX0-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-31" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="900" y="618" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-32" target="cssoFD6FsH1ywPE_WyX0-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-32" value="Copy source code in DEV folder and&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;versioning each script&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="1050" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="1040" as="sourcePoint" />
+            <mxPoint x="1000" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-36" target="cssoFD6FsH1ywPE_WyX0-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-36" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-37" target="cssoFD6FsH1ywPE_WyX0-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-37" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-40" target="cssoFD6FsH1ywPE_WyX0-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-40" value="Create deployment.csv file to current release&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="1654" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-42" target="cssoFD6FsH1ywPE_WyX0-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-42" value="Run Talend_IaC for deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Development phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="360" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DEV deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-83" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2067.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="cssoFD6FsH1ywPE_WyX0-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2187.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-87" target="cssoFD6FsH1ywPE_WyX0-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-87" value="Copy source code in QA folder and&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;versioning each script&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="2267.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2218" y="1040" as="sourcePoint" />
+            <mxPoint x="2217.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-90" target="cssoFD6FsH1ywPE_WyX0-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-90" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2467.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-92" target="cssoFD6FsH1ywPE_WyX0-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-92" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2667.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-94" target="cssoFD6FsH1ywPE_WyX0-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-94" value="Create deployment.csv file to current release&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="2871.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-96" target="cssoFD6FsH1ywPE_WyX0-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-96" value="Run Talend_IaC for deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3077.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-97" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;QA deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2252.5" y="360" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-98" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3285" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="cssoFD6FsH1ywPE_WyX0-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3405" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-101" target="cssoFD6FsH1ywPE_WyX0-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-101" value="Copy source code in DEV folder and&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;versioning each script&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="3485" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-102" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3440" y="1040" as="sourcePoint" />
+            <mxPoint x="3435" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-104" target="cssoFD6FsH1ywPE_WyX0-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-104" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3685" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-106" target="cssoFD6FsH1ywPE_WyX0-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-106" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3885" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-108" target="cssoFD6FsH1ywPE_WyX0-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-108" value="Create deployment.csv file to current release&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="4089" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-110" target="cssoFD6FsH1ywPE_WyX0-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-110" value="Run Talend_IaC for deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4295" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PSE deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3465" y="360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-112" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4502.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="cssoFD6FsH1ywPE_WyX0-115" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4622.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-115" target="cssoFD6FsH1ywPE_WyX0-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-115" value="Copy source code in DEV folder and&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;versioning each script&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="4702.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-116" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4660" y="1040" as="sourcePoint" />
+            <mxPoint x="4660" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-118" target="cssoFD6FsH1ywPE_WyX0-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-118" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4902.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-120" target="cssoFD6FsH1ywPE_WyX0-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-120" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5102.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-122" target="cssoFD6FsH1ywPE_WyX0-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-122" value="Create deployment.csv file to current release&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);" parent="1" vertex="1">
+          <mxGeometry x="5306.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-124" target="cssoFD6FsH1ywPE_WyX0-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-124" value="Run Talend_IaC for deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5512.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-125" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PROD deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4672.5" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-126" target="cssoFD6FsH1ywPE_WyX0-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-126" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5720" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-127" target="cssoFD6FsH1ywPE_WyX0-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-127" value="Create batch files to create or modify items in TAC server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5930" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-130" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5880" y="1040" as="sourcePoint" />
+            <mxPoint x="5880" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-131" value="Run required command to apply changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6142.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-133" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;TAC platform operation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5922.5" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-135" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-136" value="tlnd8/talend_deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-137" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="2297.5" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-138" value="tlnd8/talend_deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2252.5" y="820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-139" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="3510" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-140" value="tlnd8/talend_deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3465" y="820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-141" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="4735" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-142" value="tlnd8/talend_deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4690" y="820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-143" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="5955" y="710" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-144" value="tlnd8/talend_deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5910" y="800" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-147" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;&amp;nbsp;- Developers can&#39;t use talend_deployment repository for development purposes because the tac automation project structure is not preserved.&lt;br&gt;&lt;br&gt;&amp;nbsp;- It&#39;s unthinkable use talend_deployment repositorory to work as a team with several developers, How to resolve merge conflicts? How can deploy diferent versions of tac-automation project?&lt;/p&gt;&lt;p&gt;&amp;nbsp;- TAC automation project is a software project, is not a simple scripts set.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="710" width="180" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-148" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;&amp;nbsp;- There are several steps that requires human intervention, that is, these steps are not executed automatically.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;- tlnd8 repo contains files&amp;nbsp; and branches that are not related to tac automation project and it makes the repository meaning no understandable.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;- The versioning of tac automation scripts has no meaning, it does not work and can&#39;t be use to apply a project roll back because scripts has relationships between them that are not versioned.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;- There is no way to apply a project rollback and doing the back up created for Talend_IaC pointless.&lt;br&gt;&lt;br&gt;&amp;nbsp;- The best way to apply a deployment is building project from scratch, it is like &quot;reset&quot; button to project, but today Talend_IaC.sh script just add new scripts.&lt;br&gt;&lt;br&gt;&amp;nbsp;- There is no reason —it&#39;s hard— to keep and take care four copy of each tac automation script when git bring os several tools to do it automatically.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="710" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-149" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;&amp;nbsp;- For security reasons, people who is attending tickets and provides support using tac-automation commands should not have access to edit source code and environment variable files.&amp;nbsp;However, all tac-automation files are maintained in a single repository; access to these files cannot be restricted to support staff.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=light-dark(transparent,#990000);" parent="1" vertex="1">
+          <mxGeometry x="6290" y="710" width="290" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-151" target="cssoFD6FsH1ywPE_WyX0-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-151" value="Open a feature branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-153" target="cssoFD6FsH1ywPE_WyX0-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-153" value="Code writing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-169" target="cssoFD6FsH1ywPE_WyX0-151" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="1630" />
+              <mxPoint x="90" y="1630" />
+              <mxPoint x="90" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-158" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1700" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-159" value="demo-tac-automation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1790" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-160" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1700" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-161" value="demo-tac-automation-deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1790" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-162" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1850" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-163" value="demo-tac-automation-datadource" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1940" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-164" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1850" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-165" value="demo-tac-automation-env" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1940" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cssoFD6FsH1ywPE_WyX0-167" target="cssoFD6FsH1ywPE_WyX0-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-167" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry y="1540" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-169" target="cssoFD6FsH1ywPE_WyX0-173" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-169" value="Do we need a new feature?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1500" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-171" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-173" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-173" value="Merge feature branch to DEV branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66CC00);" parent="1" vertex="1">
+          <mxGeometry x="740" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-174" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="2020" as="sourcePoint" />
+            <mxPoint x="690" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-182" target="cssoFD6FsH1ywPE_WyX0-185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-182" value="Run deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-183" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Development phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1340" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-184" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DEV deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-185" target="cssoFD6FsH1ywPE_WyX0-196" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-185" value="Test and debug changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1147.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-186" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310.5" y="2020" as="sourcePoint" />
+            <mxPoint x="1310" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-192" target="cssoFD6FsH1ywPE_WyX0-193" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-192" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-193" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-194" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;One-time task&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="721" y="1680" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-196" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-196" value="Merge feature branch to DEV branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66CC00);" parent="1" vertex="1">
+          <mxGeometry x="1350" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-198" target="cssoFD6FsH1ywPE_WyX0-199" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-198" value="Run deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-199" target="cssoFD6FsH1ywPE_WyX0-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-199" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1757.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-201" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;QA deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1355" y="1350" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-203" target="cssoFD6FsH1ywPE_WyX0-204" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-203" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1369" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-204" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1569" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-205" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;One-time task&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="1680" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-206" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1918" y="2020" as="sourcePoint" />
+            <mxPoint x="1917.5" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-208" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2157.5" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-208" value="Merge feature branch to DEV branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66CC00);" parent="1" vertex="1">
+          <mxGeometry x="1957.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-210" target="cssoFD6FsH1ywPE_WyX0-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-210" value="Run deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2157.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-211" target="cssoFD6FsH1ywPE_WyX0-220" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-211" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2365" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-212" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PSE deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1957.5" y="1350" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-214" target="cssoFD6FsH1ywPE_WyX0-215" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-214" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1967.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-215" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2167.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-216" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;One-time task&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1948.5" y="1680" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-218" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2518" y="2020" as="sourcePoint" />
+            <mxPoint x="2517.5" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-220" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2757.5" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-220" value="Merge feature branch to DEV branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66CC00);" parent="1" vertex="1">
+          <mxGeometry x="2557.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-222" target="cssoFD6FsH1ywPE_WyX0-223" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-222" value="Run deployment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2757.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-223" value="Test changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2965" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-224" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PROD deployment phase&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2547.5" y="1350" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-226" target="cssoFD6FsH1ywPE_WyX0-227" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-226" value="Create required keys per server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2567.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-227" value="Create required .env files per server versioning .env files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2767.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-228" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;One-time task&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2548.5" y="1680" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="cssoFD6FsH1ywPE_WyX0-232" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3085" y="1550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cssoFD6FsH1ywPE_WyX0-232" target="cssoFD6FsH1ywPE_WyX0-234" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-232" value="Create batch files to create or modify items in TAC server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3175" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-233" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3125" y="2020" as="sourcePoint" />
+            <mxPoint x="3125" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-234" value="Run required command to apply changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3387.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-235" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;TAC platform operation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3167.5" y="1360" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-236" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="1690" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-237" value="tlnd8/talend_deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3155" y="1780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-240" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Proposal&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="1220" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cssoFD6FsH1ywPE_WyX0-241" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;&amp;nbsp;- The best way to preserve the files version is using Git.&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Git can save file permissions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Using this structure rollback procedure is posible.&lt;/p&gt;&lt;p&gt;&amp;nbsp;- The way to store keys and environment variables is so easy and scalable.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="2040" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="m7qmg3zokjMWzlrySqgF-1" value="DEVELOPER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7qmg3zokjMWzlrySqgF-3" value="PLATFORM ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7qmg3zokjMWzlrySqgF-6" value="SOPPORT STAFF" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
